@@ -42,7 +42,7 @@ apkUploaderConfigurator {
         //Your pgyer account's uKey value.
         uKey = "xxxx"
         //Your pgyer account's _api_key value.
-        _api_key = "b9bcf5ef168fdf8ce379ae9ab9bd8dcc"
+        _api_key = "xxx"
         installType = '1'
         updateDescription = "Upload."
     }

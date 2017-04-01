@@ -5,5 +5,5 @@
 import os
 
 os.system("git add .")
-os.system("git commit -am %s" % ("Commit."))
+os.system("git commit -m %s" % ("Commit."))
 os.system("git push -u origin master")

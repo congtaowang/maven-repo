@@ -3,10 +3,11 @@
   <groupId>com.catpaw</groupId>
   <artifactId>apkuploaders</artifactId>
   <versioning>
-    <release>1.0.0</release>
+    <release>1.0.0-snapshot</release>
     <versions>
       <version>1.0.0</version>
+      <version>1.0.0-snapshot</version>
     </versions>
-    <lastUpdated>20170401092823</lastUpdated>
+    <lastUpdated>20170401094019</lastUpdated>
   </versioning>
 </metadata>

@@ -19,7 +19,8 @@ def descinfo():
     if val == None or val == '':
      return 'Commit.'
     return val
- except:
+ except Exception, msg:
+  print msg
   return 'Commit.'
 
 os.system("git add .")

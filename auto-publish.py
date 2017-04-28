@@ -14,7 +14,7 @@ def descinfo():
   if len(opts) == 0:
    return 'Commit.'
   else:
-   if opts.contains('-i'):
+   if opts.__contains__('-i'):
     val = opts[opts.indexOf('-i')+1]
     if val == None or val == '':
      return 'Commit.'

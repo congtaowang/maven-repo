@@ -1,6 +1,6 @@
-# Copyright (c) 2017 by catpaw<congtaowang>. All Rights Reserved.
-
 #!/usr/bin/python
+
+# Copyright (c) 2017 by catpaw<congtaowang>. All Rights Reserved.
 
 import os
 import sys
